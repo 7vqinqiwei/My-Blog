@@ -20,7 +20,7 @@ My Blog是由Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系�
 
 #### 联系作者
 
-十三的java学习交流QQ群:```658365129```
+十三的java学习交流QQ群:```881582471```，```658365129(已满)```
 
 #### 宣传
 
@@ -39,12 +39,6 @@ My Blog是由Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系�
 * [x] [Java开源博客My-Blog之mysql容器重复初始化的严重bug修复过程](http://www.cnblogs.com/han-1034683568/p/7231895.html)
 * [x] [Springboot与Thymeleaf模板引擎整合基础教程](http://www.cnblogs.com/han-1034683568/p/7520012.html)
 * [x] [thymeleaf模板引擎调用java类中的方法](http://www.cnblogs.com/han-1034683568/p/7527564.html)
-
-#### 捐赠
-
-**网站的持续运行需要各项基础设施的搭建，而服务期的续费和维护及各种配套服务的购买也需要一定的费用，希望朋友们给予一点支持，谢谢！**
-
-**支付宝：**<img src="https://raw.githubusercontent.com/ZHENFENG13/resource/master/images/2018-02-27/zhifubao1.jpg" width = "200" height = "200" alt="zhifubao"/>**微信支付：**<img src="https://raw.githubusercontent.com/ZHENFENG13/resource/master/images/2018-02-27/wxpay.jpg" width = "200" height = "200" alt="wxpay"/>
 
 # Quick Start
 
